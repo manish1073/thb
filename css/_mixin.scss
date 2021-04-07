@@ -1,0 +1,8 @@
+@mixin gradient_btn{
+    background-image: linear-gradient(to right, $gradient_one, $gradient_two) !important;
+    border-radius: 30px;
+    width: 160px;
+    text-align: center;
+    color: $white_color;
+    padding: 0.7rem 1rem;
+}
