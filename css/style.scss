@@ -323,12 +323,12 @@ span.col-1 {
     padding:30px 20px 12px 20px;
     box-shadow: 0 1px 5px #a8a8a8;    
     border-radius:7px;
-    background-color: #ffffff;
+    background-color: $white_color;
     h5{
         font-size: 18px;
         font-weight: 700;
         line-height: 28px;
-        color: #384952;
+        color: $text_color;
         text-align: center;
     }
     .btn_submit{
@@ -348,12 +348,12 @@ span.col-1 {
         padding:10px 0px 5px 0px;
     }
     label{
-        color:#F00;
+        color:$team1;
     }
     .radio label{
         margin-left: 3px;
         margin-right: 8px;
-        color:#313131;
+        color:$address_text_color;
     }
     
 }

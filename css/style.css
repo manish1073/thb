@@ -366,7 +366,7 @@ span.col-1 {
   -webkit-box-shadow: 0 1px 5px #a8a8a8;
           box-shadow: 0 1px 5px #a8a8a8;
   border-radius: 7px;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 .contact_form h5 {
@@ -397,7 +397,7 @@ span.col-1 {
 }
 
 .contact_form label {
-  color: #F00;
+  color: #f15a2b;
 }
 
 .contact_form .radio label {
