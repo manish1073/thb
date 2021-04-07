@@ -232,18 +232,6 @@ header #canvasbg {
   flex: 1 1 auto;
 }
 
-@media (max-width: 991.98px) {
-  .padding {
-    padding: 0rem 1.5rem;
-  }
-}
-
-@media (max-width: 767.98px) {
-  .padding {
-    padding: 0rem 1rem;
-  }
-}
-
 .padding {
   padding: 0rem 3rem;
 }
@@ -426,5 +414,18 @@ footer {
 
 footer a {
   text-decoration: none;
+}
+
+/****** Media Query******/
+@media (max-width: 991.98px) {
+  .padding {
+    padding: 0rem 1.5rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .padding {
+    padding: 0rem 1rem;
+  }
 }
 /*# sourceMappingURL=style.css.map */
